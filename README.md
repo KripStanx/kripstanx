@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kripstanx
-- 👀 I’m interested in application development.
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in web application development.
+- 🌱 I’m currently learning Spring Boot & Microservices
 - 📫 Email : kartikkakde10@gmail.com
 
 <!---
